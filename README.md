@@ -6,11 +6,6 @@ Whether you're working on robotics, remote monitoring, or AI-based vision system
 
 ---
 
-Stream live camera feeds from **NVIDIA Jetson** or **Raspberry Pi** over **RTSP** using GStreamer and Python.  
-Ideal for robotics, IoT, computer vision, and edge AI applications where real-time video access is critical.
-
----
-
 ## 🧠 Why This Project?
 
 Real-time video is essential for edge devices in applications like:
